@@ -33,3 +33,18 @@ This repository contains my professional CV/resume website showcasing my skills,
 ## How to Use
 
 1. Clone this repository:
+2. Open `index.html` in your browser to view the CV
+
+## Deployment
+
+This CV is deployed using Netlify and can be viewed at [CV Website URL].
+
+## Development
+
+Created by [Said Garnit](https://github.com/Saidgarnit) - IT Security and Digital Trust Engineer
+
+Last updated: 2025-03-30
+
+## License
+
+This project is available for personal and professional use. Feel free to use this as a template for your own CV, but please provide attribution.
